@@ -1,0 +1,56 @@
+1.4 Neuromorphology of the nervous system in Friedreich ataxia
+
+FRDA is a slowly progressive multisystem disease with a complex pathogenesis. The proprioceptive system is affected early in the FRDA disease process, as well as the cerebellar, corticospinal, visual, auditory and autonomic systems and non-neuronal cell types, resulting in a unique clinical picture. For clinicians, effects on the nervous system and the heart are most relevant. However, understanding the multi-system complexity of FRDA and its temporal evolution is highly relevant for developing new therapies and defining targets (36).
+1.4.1 Pathology
+FRDA affects several sites in the central and peripheral nervous systems: the spinal cord, dorsal root ganglia, sensory peripheral nerves, the dorsal nuclei, gracile and cuneate nuclei in the medulla oblongata, and the dentate nucleus of the cerebellum. Medical students and other trainees will learn about spinal cord atrophy in FRDA, and indeed, stains of sections of the thoracic spinal cord reveal subtotal lag of myelinated fibers in the dorsal columns and a more moderate deficit of fibers in the lateral corticospinal and dorsal spinocerebellar tracts (see Table 1.1). However, while the histopathological diagnosis of FRDA can be made by inspection of spinal cord sections, the clinically more important lesion is located in the dentate nucleus, which shows loss of large neurons while small neurons are commonly preserved. By immunohistochemistry, the small neurons of the dentate nucleus contain glutamate decarboxylase, the enzyme that generates γ-aminobutyric acid (GABA), which is the most abundant inhibitory neurohumoral transmitter in the central nervous system (CNS). The GABA-ergic small neurons send axons to the contralateral inferior olivary nuclei that remain intact in FRDA. The vulnerable large dentate nucleus nerve cells are thought to be glutamatergic, hence are excitatory at the location of their synaptic terminals in the contralateral thalamus.
+In most cases of FRDA, the cerebellar cortex remains intact, although in long-standing cases there is regional loss of Purkinje cells and atypical location in the molecular layer of the cerebellar cortex. A highly characteristic abnormality of the dentate nucleus in FRDA is “grumose” reaction – formerly considered a degeneration. It consists of clusters of GABA-ergic Purkinje cell-derived axon terminals about dendrites and cell bodies of large and small dentate nucleus neurons. The precise pathogenesis of grumose regeneration is unclear, but may be related to the deficient position of GABA receptors in the plasma membranes of dentate nucleus neurons. Trigeminal ganglia and the dorsal root ganglia at the spinal level are important targets in FRDA. Dorsal root ganglia display reduced sizes of all neurons, a remarkable proliferation of satellite cells, infiltration by monocytes, and neuronophagia of dorsal root ganglia neurons. A characteristic lesion is the formation of residual nodules that consist of a mixture of proliferated satellite cells and monocytes. Monocytes express markers of macrophages, such as CD68 and IBA-1 though phagocytosis is absent. The destruction of neurons is more akin to neuronophagia than to phagocytosis. Systematic quantification of the size of dorsal root ganglia neurons has led to the conclusion that the dorsal root ganglia lesion in FRDA is hypoplasia rather than atrophy. During development, intact dorsal root ganglia neurons are responsible for the proper growth of axons in the dorsal columns of the spinal cord and the trophic support of the dorsal nuclei that give rise to the dorsal spinocerebellar tracts. Accordingly, the time-honored “atrophy” of the spinal cord is also more consistent with hypoplasia than with degeneration. A critical point in the pathogenesis of the lesions in dorsal root ganglia and the spinal cord is failure of the boundary cap, a barrier at the junction of spinal cord CNS and the growing axons seeking entry into the parenchyma of the spinal cord. A remarkable observation at the level of the dorsal root entry zone is the invasion of dorsal roots by cones of glial tissue arising from the spinal CNS. Hypoplasia and inflammatory destruction of dorsal root ganglia neurons are also responsible for the neuropathy of sensory peripheral nerves, resulting clinically in reduced sensory function. The paucity and small size of nerve cells in the gracile and cuneate nuclei may be attributed to transneuronal atrophy.
+1.4.2 Imaging
+Clinically relevant imaging features supporting diagnosis
+Typical FRDA radiographic structural features of the brain and spinal cord are: (i) thinning of the cervical cord (reduction in anteroposterior diameter), depending on the stage of the disease; (ii) mild cerebral atrophy; and (iii) mild to moderate cerebellar atrophy. Usually the atrophy is not as severe as in other spinocerebellar ataxias. Using diffusion weighted imaging, microstructural involvement of the structures, in particular the cerebral peduncles can be detected. Magnetic resonance imaging (MRI) of the brain and spinal cord can support the diagnosis of FRDA.
+What do we know from multi-modal imaging in a research setting?
+From the imaging point of view, there is a clear spino-cerebellar dominance with respect to the CNS. For the cerebellum, a pattern of gray matter atrophy weighted toward lobules IV–VI of the vermis, and reductions in brainstem and cerebellar white matter volume adjacent to the dentate nuclei and within the cerebellar peduncles, is well described (39-44). Atrophy of the dentate nuclei has also been reported using quantitative susceptibility mapping (QSM), alongside cross-sectional increases in iron concentration and longitudinal iron accumulation in these structures (45). Recently the spinal cord has gained increased attention. MRI evaluations of spinal cord morphometry have identified flattening and reduced cross-sectional area across the full length of the spinal cord, but most marked in cervical regions (39, 42). There are suggestions that spinal cord changes occur early in the disease, are progressive, and are clinically relevant features of FRDA, but this is still being debated.
+For the cerebrum, reports of subtle anatomical changes remain mixed, with atrophy of the thalamus and cortical motor areas most consistently implicated and thought to reflect later-stage disease changes (39, 42). Robust microstructural white matter abnormalities have also been detected, most notably in corticospinal, callosal, and long-range association tracts (42-44, 46). Microstructural impairments appear to manifest over-and-above volumetric atrophy (40, 43) and correlate with biochemical markers of neuronal loss (N-acetyl-aspartate-to-creatine ratio) (46, 47). The patterns of abnormalities reported across different neuroimaging indices point to the potential for both myelin-related and degeneration-related white-matter disease in FRDA. Whole brain functional MRI (fMRI) studies in FRDA also reveal evidence of network-level functional changes. Reduced cerebro-cerebellar and increased cerebro-cerebral connectivity have been found using resting-state fMRI (40, 48). These studies indicate a potential for adaptive mechanisms to play a role in disease mitigation or expression.
+Table 1.1 Overview of major neuropathological and imaging findings in Friedreich ataxia
+
+
+
+Region
+Pathology
+Imaging
+
+
+
+
+Cerebrum
+Generally normal
+Morphometry: atrophy of the thalamus and cortical motor areas (later stages)
+
+
+
+Cerebellum
+Atrophy of the dentate nuclei and their efferent fibers in the superior cerebellar peduncle. Loss of GABAergic and glutamatergic afferents in the dentate nuclei.
+Morphometry: atrophy weighted toward lobules IV–VI; atrophy of the dentate nuclei using QSM
+
+
+
+
+Brainstem
+ 
+Gracile and cuneate nuclei
+Morphometry: atrophy in the medulla oblongata, pons and mesencephalon
+
+
+Cervical spinal cord
+Dorsal column hypoplasia; underdeveloped dorsal roots
+Morphometry: reduced cross-sectional area and volume, flattening
+
+
+
+Thoracic spinal cord
+Lack of myelinated fibers in the dorsal columns, the dorsal spinocerebellar tracts, and the lateral corticospinal tracts. Hypoplasia of the dorsal nuclei
+Morphometry: reduced cross-sectional area and volume, flattening
+ 
+
+
+
+Legend: tCr, total creatine; tNAA, total N-acetylaspartate; mI, myo-Inositol; ↓reduced compared with controls; ­↑increased compared with controls. The listed findings are primarily based on review articles and meta-analyses; therefore, metabolite ratios are mostly displayed for MRS findings, and the respective metabolic reference is indicated in brackets, that is, (/tCr). The respective ‘numerator’ simultaneously represents the metabolite concentration from individual findings, that is, tNAA in tNAA (/tCr); QSM, quantitative susceptibility mapping

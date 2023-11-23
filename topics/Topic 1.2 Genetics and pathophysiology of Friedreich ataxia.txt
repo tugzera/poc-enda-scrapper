@@ -1,0 +1,8 @@
+1.2 Genetics and pathophysiology of Friedreich ataxia
+
+1.2.1 Genetics, incidence and carrier frequency
+
+All individuals with FRDA genotyped to date have at least one expanded GAA triplet-repeat. Strong linkage disequilibrium indicates that the expanded GAA triplet-repeat arose from a relatively recent common founder (27). As a result, the expanded GAA triplet-repeat is seen predominantly in the Indo-European population, and in populations with whom they have admixed. The carrier frequency in Indo-Europeans is estimated to be about 1%, which supports an incidence rate of about 1 in 40,000.
+1.2.2 Pathophysiology
+
+Frataxin functions in the biogenesis of iron-sulfur (Fe-S) clusters (33), which are essential cofactors that participate in a number of cellular pathways including mitochondrial respiration, iron metabolism and DNA metabolism. In FRDA, deficiency of frataxin results in decreased mitochondrial ATP production, perturbed iron metabolism and dysregulated oxidative stress response (34). Tissues that are pathologically involved in FRDA tend to be highly dependent on mitochondrial oxidative phosphorylation (34-36). These include the nervous system (large sensory neurons of the dorsal root ganglia; spinocerebellar and corticospinal tracts as well as the posterior columns of the spinal cord; cerebellar dentate nuclei), the heart, and pancreatic β-cells. Tissue vulnerability and pathological involvement likely begin during embryonic development (37, 38) and continue throughout life to the later stages of disease; however, the precise pathophysiological determinants of disease progression in FRDA are not well understood.

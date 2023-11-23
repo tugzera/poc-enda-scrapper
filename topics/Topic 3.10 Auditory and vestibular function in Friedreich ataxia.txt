@@ -1,0 +1,58 @@
+3.10 Auditory and vestibular function in Friedreich ataxia
+
+This chapter describes the effects of Friedreich ataxia on auditory and vestibular function, the functional consequences of these effects, and strategies for assessing and managing auditory and vestibular disturbance. In making recommendations for management, the authors were tasked with answering the question:
+For individuals with Friedreich ataxia, what management strategies could be implemented for disturbance of auditory function?
+3.10.1 The effects of Friedreich ataxia on auditory and vestibular function
+Auditory pathway abnormality is a consistently reported feature of Friedreich ataxia (FRDA). While sound detection is typically normal or near-normal (1-3), almost all individuals with FRDA will (eventually) show evidence of disordered neural conduction in the central auditory pathways (auditory neuropathy) and abnormal perception of complex signals including speech.
+Peripheral auditory function (that is the physiology of the middle and inner ear) is generally unaffected in individuals with FRDA, but neural activity is abnormal. Electrophysiologic assessment typically reveals absent or distorted potentials from the cochlear nerve and auditory brainstem (3-5) consistent with auditory nerve axonopathy (3, 6, 7). This result pattern is in accordance with histological evidence showing preserved cochlear structures (organ of corti and hair cells) and selective loss of auditory nerve fibers (8).
+Abnormalities in the function of the vestibular system are also a consistently reported feature of FRDA. The vestibular function is diminished and oculomotor abnormalities are common, as revealed with caloric, rotatory and head impulse tests (9-13). The presence of abnormal eye movement at early onset of FRDA is a sign of disease severity (10) and the vestibulo-ocular responses and gaze stability control are correlated with progression of the disease. Abnormal vestibular findings in individuals with FRDA are consistent with damage to the vestibular end organ, the vestibular nerve or the vestibular brainstem nucleus (8, 14).
+3.10.2 Functional consequences of disturbance of auditory and vestibular function
+The perceptual effects of auditory pathway disorder in individuals with FRDA are distinct from those caused by peripheral hearing loss. Where cochlear damage results in impaired sound detection thresholds and distortion of pitch perception, auditory neuropathy associated with FRDA results in disruption of temporal (timing) cues (3). The functional consequences of this temporal distortion are variable, but typically severe. The majority of individuals with FRDA show impaired speech understanding in background noise (3, 15) and report impaired communication (16), which worsens with disease progression.
+FRDA is characterized by severe and widespread anomalies in the oculomotor and vestibular systems. When combined with ataxia, these anomalies can further impair the autonomy of affected individuals.
+3.10.3 Assessment and management of auditory and vestibular disturbance
+3.10.3.1 Assessment of auditory function
+Auditory evaluation should assess both peripheral function and the central auditory pathways and include the following:
+
+1. Sound detection thresholds (audiogram)
+2. Speech perception
+
+
+ ○ functional hearing capacity in quiet and background noise
+
+
+3. Auditory evoked potentials
+
+
+ ○ auditory brainstem response (ABR)
+ ○ cochlear microphonic (CM)
+
+
+4. Otoacoustic emissions (OAE)
+5. Hearing disability survey
+
+
+3.10.3.2 Interventions for auditory disturbance
+Instruction in ‘listening tactics’ can be beneficial for all individuals with hearing difficulties (17). The aim of these strategies is to help the listener optimize social interaction by controlling the communication environment. This may involve a range of measures including minimization of background noise and maximization of visual (lip-reading) cues.
+Conventional hearing aids tend not to be useful in listeners with FRDA as they are designed to make sounds louder (which is typically not required for this population) and do not overcome the auditory neural distortion typically associated with FRDA (18, 19).
+There is no clear evidence as to whether or not cochlear implants help individuals with FRDA. A handful of case studies have been presented and outcomes have been mixed (18, 19). Cochlear implant results in populations with other neurodegenerative diseases involving auditory axonopathy have been also been variable (20).
+Remote-microphone listening devices, may improve day-to-day listening and general communication in individuals with FRDA (16). These systems transmit speech signals (detected by a lapel microphone worn by the speaker) directly to ear-level receivers worn by the listener. As such, they improve access to the signal because the speech is louder (relative to the background noise) at the listener’s ear.
+3.10.3.3 Assessment of vestibular function
+Exploring vestibular function can help clinicians with the differential diagnosis of progressive ataxia syndromes. Patients with FRDA would benefit from the following vestibular assessment:
+
+1. Video head impulse test (v-HIT)
+2. Earth vertical axis rotation (EVAR)
+3. Vestibular evoked myogenic potentials (VEMPs)
+
+
+3.10.3.4 Intervention for vestibular disturbance
+Physical and occupational therapy may ease some symptoms of vestibular disturbance and help improve quality of life in some patients.
+
+Jump to Recommendations
+
+
+
+Jump to Best practice statements
+
+
+
+Jump to Lay summary

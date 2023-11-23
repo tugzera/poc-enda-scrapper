@@ -1,0 +1,17 @@
+10.3 Assessing nutritional status in Friedreich ataxia
+
+10.3.1 Nutrition and Friedreich ataxia
+While there are limited data specifically related to Friedreich ataxia (FRDA), ensuring optimal nutrition is critical for any individual with a chronic medical condition. Body mass index (BMI) is frequently used in clinical practice to screen for undernutrition or over-nutrition, with specific cut-off values defined by the WHO (67). However, BMI is often missing from visits recorded in the FA-COMS study (5) and individuals with higher modified FRDA Rating Scale (mFARS) scores and/or who are non-ambulatory are less likely to have measurements recorded at visits (68). The reason for neglecting to measure BMI routinely may be due to difficulties in measuring height in individuals with FRDA. In another study, a cross-sectional analysis including anthropometric measurements in FRDA (n=158, 109 adults, 49 children) found that 20% of children were underweight, with BMI at or below the fifth percentile (3). Similarly, baseline characteristics in the FACOMS reported that 17% of children (42/253) were underweight and 33% of adults (105/317) were overweight or obese (BMI ≥ 25 kg/m2) (68). A smaller study reported that 7/16 individuals with FRDA were overweight and 1/16 was severely obese (14).
+10.3.2 Body mass index thresholds
+BMI may not be the optimal reflection of body composition (7), particularly when compared to results from detailed assessments typically available in the research setting; however, measuring BMI is a practical way to perform an initial screen for nutritional status in a clinical setting. Standard BMI thresholds, as defined by the WHO or country specific, that are used in the general population are also used in individuals with other disorders impacting the mitochondria. For example, one report using BMI notes a high prevalence of undernutrition in children with genetic mitochondrial diseases, and also a substantial prevalence of overweight or obesity in adults with the same disorders (69, 70). Therefore, we recommend assessing BMI annually in individuals with FRDA. We also suggest beginning with reference BMI thresholds to screen for underweight and overweight/obesity, recognizing that neither the extent to which BMI reflects body composition nor the clinical relevance of BMI are well characterized in FRDA.
+While data are limited in FRDA, higher BMI increases the risk of diabetes and other cardio-metabolic disorders in the general population (71, 72). As diabetes and cardiomyopathy are known co-morbidities in FRDA, it is important to counsel patients on healthful nutrition and how to undertake exercise safely. Beyond the associated risks for health problems, elevated BMI may also make mobility and transfers more difficult. With respect to nutritional interventions, individuals who are overweight and/or individuals with specific FRDA-related co-morbidities (e.g., diabetes, cardiomyopathy) for which nutrition is an established part of management, should receive appropriate counseling. As with any child identified to be underweight, children with FRDA who are underweight should be evaluated by a multidisciplinary team with clinical expertise in nutritional management. Currently, there is no specific evidence in support of management practices of underweight children with FRDA.
+
+Jump to Recommendations
+
+
+
+Jump to Best practice statements
+
+
+
+Jump to Lay summary

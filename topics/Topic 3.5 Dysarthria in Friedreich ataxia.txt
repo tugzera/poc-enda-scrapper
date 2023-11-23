@@ -1,0 +1,23 @@
+3.5 Dysarthria in Friedreich ataxia
+
+This chapter describes the effects of Friedreich ataxia on speech, the functional consequences of speech impairment (dysarthria), and strategies for managing dysarthria. In making recommendations for management, the authors were tasked with answering the question:
+For individuals with Friedreich ataxia, what management strategies could be implemented for dysarthria?
+3.5.1 Effects of Friedreich ataxia on speech and communication
+Dysarthria is the core speech disorder in Friedreich ataxia (FRDA) (1, 2). Speech related physiological impairments in FRDA include poor breath support, incoordination of articulators, and slower movement. They lead to reduced intelligibility and naturalness of speech (deviation from healthy norm). Degraded intelligibility can make it difficult to communicate in day-to-day tasks, which is exacerbated when talking on the phone or in noisy environments. As well as motor deficits associated with speech, individuals with FRDA often present with cognitive inflexibility (3) that may lead to difficulties generating ideas, planning and organizing messages, and making inferences from spoken/written information due to the inability to process verbal information at speed (4). Auditory processing deficits are also described in FRDA related to hearing and processing speech and sound in complex noise environments (5). Two other functional domains can potentially impact on communication or access to alternative/augmentative forms of communication (AAC; e.g., unaided systems like gesture or aided systems such as speech generating devices): oculomotor and upper limb performance. Most individuals with FRDA retain adequate visual acuity (6, 7); however, this can change with disease progression. In contrast, many develop ocular motor fixation deficits (8). These deficits, coupled with the loss of upper limb dexterity (9) and dysarthria itself, complicate the use of traditional AAC technologies that rely on speech to text or mouse use on digital devices.
+3.5.2 Functional consequences of dysarthria
+Dysarthria manifests in slower speech, poor vocal control, hypernasality (10), dysphonia (11), and imprecise consonants (12) in the speaker. Dysarthria is debilitating and can render the speaker unintelligible (13). Speech is affected in almost all people with ataxia. Communication deficits can trigger altered self-identity (14) and impede or prevent both social and professional interactions (15). This leads to daily disadvantage and social marginalization through limitations in accomplishing tasks with associated emotional consequences (16, 17) and underemployment (15).
+3.5.3 Management of dysarthria
+There are three potential management strategies designed to improve speech function in Friedreich ataxia: behavioral therapy; alternative and augmentative communication (AAC); and pharmacological treatment.
+Behavioral management is based on traditional models of speech therapy that focus on improving the underlying physiologic support for speech (e.g., improving trunk stability and breath support); modifying speech through compensatory speaking strategies (e.g., segmenting phrases and controlling rate to improve articulatory accuracy); improving clarity and naturalness of speech by practicing appropriate targets; improving self-monitoring; and managing the communication environment (e.g., reducing background noise levels when speaking, conversation partner training). Advice and guidance on improving speech is typically delivered by a therapist or via technology and is delivered intensively in the clinic or home. Intervention may be delivered individually or in a group format.
+AAC is designed to provide capacity for individuals to use technology, devices or alternative forms of communication (such as eye gaze, writing) to replace or supplement spoken communication. It is often beneficial to work jointly with colleagues from the multi-disciplinary team, such as physiotherapists for trunk stability and occupational therapists for fine motor control and accessing augmentative communication devices.
+Pharmaceutical treatments are commonly designed to halt or reverse disease progression or alleviate the symptoms of disease. However, there are currently no known drugs that specifically target amelioration of speech disorder (18).
+
+Jump to Recommendations
+
+
+
+Jump to Best practice statements
+
+
+
+Jump to Lay summary
