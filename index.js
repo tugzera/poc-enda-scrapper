@@ -1,8 +1,8 @@
 const puppeteer = require("puppeteer");
-const axios = require("axios");
-const fs = require("fs");
+const handleBlackListTopics = require("./handle-topic-black-list");
+const handleTopics = require("./handle-topic");
 
-const blackList = [
+const diffTagFormat = [
   "https://frdaguidelines.org/3-1/",
   "https://frdaguidelines.org/11-1/",
   "https://frdaguidelines.org/11-2/",
@@ -35,8 +35,9 @@ const main = async () => {
     headless: "new",
   });
   const page = await browser.newPage();
-  const content = await axios.default.get(baseUrl);
-  await page.setContent(content.data);
+  await page.goto(baseUrl, {
+    waitUntil: "networkidle2",
+  });
   const chapters = await page.$$("details");
   for (const chapterElement of chapters) {
     const chapterTitle = await chapterElement.$eval("summary", (summary) =>
@@ -55,62 +56,17 @@ const main = async () => {
     );
     for (const topic of topics) {
       const { topicLink, topicTitle } = topic;
-      if (
-        !topicTitle.includes("Chapter Overview") &&
-        !blackList.includes(topicLink)
-      ) {
-        await handleTopics({ browser, topicLink, topicTitle });
+      if (topicTitle.includes("Chapter Overview")) continue;
+      const isBlackList = diffTagFormat.includes(topicLink);
+      if (isBlackList) {
+        await handleBlackListTopics({ topicLink, topicTitle, browser });
+      } else {
+        await handleTopics({ topicLink, topicTitle, browser });
       }
     }
     console.log("\n");
   }
   await browser.close();
-};
-
-const handleTopics = async ({ topicLink, topicTitle, browser }) => {
-  const page = await browser.newPage();
-  try {
-    const content = await axios.default.get(topicLink);
-    await page.setContent(content.data);
-    console.log(topicTitle, topicLink);
-    await page.waitForSelector(
-      '.su-tabs-pane[data-title="<strong>Full Text</strong>"]',
-      {
-        timeout: 10000,
-      }
-    );
-    const { htmlContent, textContent } = await page.evaluate(() => {
-      const fullTextElement = document.querySelector(
-        '.su-tabs-pane[data-title="<strong>Full Text</strong>"]'
-      );
-      const clonedElement = fullTextElement.cloneNode(true);
-      const pElements = clonedElement.querySelectorAll("p");
-      pElements.forEach((pElement) => {
-        if (pElement.querySelector("em")) {
-          pElement.innerHTML = "";
-        }
-      });
-      const detailsElements = clonedElement.querySelectorAll("details");
-      detailsElements.forEach((detailsElement) => {
-        detailsElement.innerHTML = "";
-      });
-      const htmlContent = clonedElement.innerHTML
-        .replaceAll("<p></p>", "")
-        .replaceAll("<details></details>", "");
-      return {
-        htmlContent,
-        textContent: clonedElement.textContent.trim(),
-      };
-    });
-    const fileName = topicTitle.replace("/", " ");
-    fs.writeFileSync(`./topics/${fileName}.html`, htmlContent);
-    fs.writeFileSync(`./topics/${fileName}.txt`, textContent);
-    // await sleep();
-  } catch (error) {
-    console.log(error);
-  } finally {
-    await page.close();
-  }
 };
 
 main();
